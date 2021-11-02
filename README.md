@@ -10,7 +10,7 @@
 ➰ 해결했지만 복습히 필요한 문제 -> 다시 푼 횟수만큼 ➰추가
 
 ## 문제 리스트
-  - [후위 표기식2](https://www.acmicpc.net/problem/1935)
-  - [후위 표기식](https://www.acmicpc.net/problem/1918)
-  - [Puyo Puyo](https://www.acmicpc.net/problem/11559)
-  - [배열 돌리기1](https://www.acmicpc.net/problem/16926)
+  - [후위 표기식2](https://www.acmicpc.net/problem/1935) ✔️
+  - [후위 표기식](https://www.acmicpc.net/problem/1918) ➰
+  - [Puyo Puyo](https://www.acmicpc.net/problem/11559) ➰
+  - [배열 돌리기1](https://www.acmicpc.net/problem/16926) ➰
