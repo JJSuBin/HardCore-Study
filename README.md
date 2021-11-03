@@ -14,3 +14,7 @@
   - [후위 표기식](https://www.acmicpc.net/problem/1918) ➰
   - [Puyo Puyo](https://www.acmicpc.net/problem/11559) ➰
   - [배열 돌리기1](https://www.acmicpc.net/problem/16926) ➰
+  - [링크와 스타트](https://www.acmicpc.net/problem/15661) ✔️
+  - [사다리 조작](https://www.acmicpc.net/problem/15684) ➰
+  - [배열 돌리기2](https://www.acmicpc.net/problem/16927)
+  - [선물](https://www.acmicpc.net/problem/1166)
