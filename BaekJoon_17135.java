@@ -59,8 +59,8 @@ public class BaekJoon_17135 {
 			while(turn<n) {
 				// 3명의 궁수 탐색
 				for(int k=0;k<3;k++) {
-					int x=n-turn; // 궁수의 열
-					int y=temp[k]; // 궁수의 행
+					int x=n-turn; // 궁수의 행
+					int y=temp[k]; // 궁수의 열
 					
 					int min=Integer.MAX_VALUE; // 적까지의 최소거리
 					int minX=-1; // 적의 위치 저장
