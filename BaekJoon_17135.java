@@ -21,7 +21,7 @@ public class BaekJoon_17135 {
 		m=sc.nextInt();
 		d=sc.nextInt();
 		
-		archer=new int[m];
+		archer=new int[m]; // 각 궁수의 행을 저장
 		for(int i=0;i<m;i++)
 			archer[i]=i;
 		
