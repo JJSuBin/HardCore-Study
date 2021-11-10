@@ -22,5 +22,5 @@
   - [웜홀](https://www.acmicpc.net/problem/1865) ❌
   - [캐슬 디펜스](https://www.acmicpc.net/problem/17135) ➰
   - [Unique Paths](https://leetcode.com/problems/unique-paths/) ✔️
-  - [텀 프로젝트](https://www.acmicpc.net/problem/9466)
-  - [숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+  - [텀 프로젝트](https://www.acmicpc.net/problem/9466) ✔️
+  - [숨바꼭질 5](https://www.acmicpc.net/problem/17071) ➰
