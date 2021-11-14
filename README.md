@@ -24,3 +24,8 @@
   - [Unique Paths](https://leetcode.com/problems/unique-paths/) ✔️
   - [텀 프로젝트](https://www.acmicpc.net/problem/9466) ✔️
   - [숨바꼭질 5](https://www.acmicpc.net/problem/17071) ➰
+  - [달팽이 3](https://www.acmicpc.net/problem/1959) ➰
+  - [두 배열의 합](https://www.acmicpc.net/problem/2143) ❌
+  - [아기상어](https://www.acmicpc.net/problem/16236) ➰
+  - [N과 M(8)](https://www.acmicpc.net/problem/15657) ✔️
+  - [N과 M(12)](https://www.acmicpc.net/problem/15666) ✔️
