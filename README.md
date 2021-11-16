@@ -29,3 +29,5 @@
   - [아기상어](https://www.acmicpc.net/problem/16236) ➰
   - [N과 M(8)](https://www.acmicpc.net/problem/15657) ✔️
   - [N과 M(12)](https://www.acmicpc.net/problem/15666) ✔️
+  - [소수 구하기](https://www.acmicpc.net/problem/1929) ✔️
+  - [소수 부분 문자열](https://www.acmicpc.net/problem/5636)
