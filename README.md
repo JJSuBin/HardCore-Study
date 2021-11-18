@@ -32,3 +32,4 @@
   - [소수 구하기](https://www.acmicpc.net/problem/1929) ✔️
   - [소수 부분 문자열](https://www.acmicpc.net/problem/5636) ✔️
   - [보물섬](https://www.acmicpc.net/problem/2589) ✔️
+  - [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) ✔️
