@@ -37,3 +37,4 @@
   - [다리 만들기](https://www.acmicpc.net/problem/2146) ✔️
   - [부분 수열의 합2](https://www.acmicpc.net/problem/1208) ❌
   - [N-Queen](https://www.acmicpc.net/problem/9663) ✔️
+  - [ABCDE](https://www.acmicpc.net/problem/13023) ➰
