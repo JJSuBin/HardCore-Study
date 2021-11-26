@@ -38,3 +38,4 @@
   - [부분 수열의 합2](https://www.acmicpc.net/problem/1208) ❌
   - [N-Queen](https://www.acmicpc.net/problem/9663) ✔️
   - [ABCDE](https://www.acmicpc.net/problem/13023) ➰
+  - [레이저 통신](https://www.acmicpc.net/problem/6087) ➰
