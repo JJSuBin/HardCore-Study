@@ -39,3 +39,4 @@
   - [N-Queen](https://www.acmicpc.net/problem/9663) ✔️
   - [ABCDE](https://www.acmicpc.net/problem/13023) ➰
   - [레이저 통신](https://www.acmicpc.net/problem/6087) ➰
+  - [빵집](https://www.acmicpc.net/problem/3109) ➰
