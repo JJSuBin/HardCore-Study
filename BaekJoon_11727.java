@@ -11,12 +11,10 @@ public class BaekJoon_11727 {
 		dp=new int[n+1];
 		
 		// 정화식 -> dp[i]=dp[i-1]+(dp[i-2]x2)
-		dp[0]=0;
+		dp[0]=1;
 		dp[1]=1;
-		dp[2]=3;
-		dp[3]=5;
 		
-		for(int i=3;i<=n;i++)
+		for(int i=2;i<=n;i++)
 			dp[i]=(dp[i-1]+dp[i-2]*2)%10007;
 		
 		System.out.println(dp[n]);
