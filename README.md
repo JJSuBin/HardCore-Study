@@ -41,4 +41,4 @@
   - [레이저 통신](https://www.acmicpc.net/problem/6087) ➰
   - [빵집](https://www.acmicpc.net/problem/3109) ➰
   - [2Xn 타일링2](https://www.acmicpc.net/problem/11727) ✔️
-  - [구간 합 구하기4](https://www.acmicpc.net/problem/11659)
+  - [구간 합 구하기4](https://www.acmicpc.net/problem/11659) ✔️
