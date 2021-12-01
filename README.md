@@ -42,3 +42,5 @@
   - [빵집](https://www.acmicpc.net/problem/3109) ➰
   - [2Xn 타일링2](https://www.acmicpc.net/problem/11727) ✔️
   - [구간 합 구하기4](https://www.acmicpc.net/problem/11659) ✔️
+  - [음악 프로그램](https://www.acmicpc.net/problem/2623) ❌
+  - [벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946) ➰
