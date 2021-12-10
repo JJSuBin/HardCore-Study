@@ -45,3 +45,5 @@
   - [음악 프로그램](https://www.acmicpc.net/problem/2623) ❌
   - [벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946) ➰
   - [소문난 칠공주](https://www.acmicpc.net/problem/1941) ➰➰
+  - [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) ❌
+  - [IQ Test](https://www.acmicpc.net/problem/1111) ➰
