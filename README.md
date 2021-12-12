@@ -48,3 +48,4 @@
   - [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) ❌
   - [IQ Test](https://www.acmicpc.net/problem/1111) ➰
   - [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) ➰
+  - [이상한 소수](https://www.acmicpc.net/problem/2023) ✔️
