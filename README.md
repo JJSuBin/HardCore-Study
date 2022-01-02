@@ -50,3 +50,4 @@
   - [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) ➰
   - [이상한 소수](https://www.acmicpc.net/problem/2023) ✔️
   - [숫자고르기](https://www.acmicpc.net/problem/2668) ✔️
+  - [불!](https://www.acmicpc.net/problem/5427) ✔️
