@@ -52,3 +52,4 @@
   - [숫자고르기](https://www.acmicpc.net/problem/2668) ✔️
   - [불!](https://www.acmicpc.net/problem/5427) ✔️ 
   - [이분그래프](https://www.acmicpc.net/problem/1707) ✔️
+  - [교환](https://www.acmicpc.net/problem/1039) ➰
