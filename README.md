@@ -53,3 +53,4 @@
   - [불!](https://www.acmicpc.net/problem/5427) ✔️ 
   - [이분그래프](https://www.acmicpc.net/problem/1707) ✔️
   - [교환](https://www.acmicpc.net/problem/1039) ➰
+  - [1학년](https://www.acmicpc.net/problem/5557) ➰
