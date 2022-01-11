@@ -54,3 +54,4 @@
   - [이분그래프](https://www.acmicpc.net/problem/1707) ✔️
   - [교환](https://www.acmicpc.net/problem/1039) ➰
   - [1학년](https://www.acmicpc.net/problem/5557) ➰
+  - [가르침](https://www.acmicpc.net/problem/1062) ✔️
