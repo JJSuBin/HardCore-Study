@@ -60,3 +60,4 @@
   - [대표선수](https://www.acmicpc.net/problem/2461) ➰
   - [평범한 ](https://www.acmicpc.net/problem/12865) ➰
   - [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) ✔️
+  - [테트로미로](https://www.acmicpc.net/problem/14500) ✔️
