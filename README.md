@@ -58,6 +58,7 @@
   - [최단경로](https://www.acmicpc.net/problem/1753) ✔️
   - [미로 탈출하기](https://www.acmicpc.net/problem/17090) ➰
   - [대표선수](https://www.acmicpc.net/problem/2461) ➰
-  - [평범한 ](https://www.acmicpc.net/problem/12865) ➰
+  - [평범한 배낭](https://www.acmicpc.net/problem/12865) ➰
   - [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) ✔️
   - [테트로미로](https://www.acmicpc.net/problem/14500) ✔️
+  - [구슬 탈출2](https://www.acmicpc.net/problem/13460) ➰
