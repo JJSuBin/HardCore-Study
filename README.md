@@ -62,3 +62,4 @@
   - [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) ✔️
   - [테트로미로](https://www.acmicpc.net/problem/14500) ✔️
   - [구슬 탈출2](https://www.acmicpc.net/problem/13460) ➰
+  - [뱀](https://www.acmicpc.net/problem/3190) ✔️
